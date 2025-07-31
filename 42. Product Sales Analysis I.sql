@@ -1,0 +1,2 @@
+-- 42. Product Sales Analysis I
+-- Question goes here.

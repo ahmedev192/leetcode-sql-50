@@ -1,0 +1,2 @@
+-- 22. Triangle Judgement
+-- Question goes here.

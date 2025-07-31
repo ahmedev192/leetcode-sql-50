@@ -1,0 +1,2 @@
+-- 2. Second Highest Salary
+-- Question goes here.

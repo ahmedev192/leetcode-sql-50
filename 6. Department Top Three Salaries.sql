@@ -1,0 +1,2 @@
+-- 6. Department Top Three Salaries
+-- Question goes here.

@@ -1,0 +1,2 @@
+-- 15. Average Salary: Departments VS Company
+-- Question goes here.

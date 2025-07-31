@@ -1,0 +1,2 @@
+-- 3. Nth Highest Salary
+-- Question goes here.

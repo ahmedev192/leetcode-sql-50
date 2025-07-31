@@ -1,0 +1,2 @@
+-- 50. Rearrange Products Table
+-- Question goes here.

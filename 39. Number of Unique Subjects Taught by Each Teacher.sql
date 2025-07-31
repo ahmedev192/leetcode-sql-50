@@ -1,0 +1,2 @@
+-- 39. Number of Unique Subjects Taught by Each Teacher
+-- Question goes here.
