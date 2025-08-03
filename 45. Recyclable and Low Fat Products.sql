@@ -1,2 +1,2 @@
 -- 45. Recyclable and Low Fat Products
--- Question goes here.
+select product_id from products where low_fats = 'Y' and recyclable ='Y' ; 
