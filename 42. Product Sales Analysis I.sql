@@ -1,2 +1,3 @@
 -- 42. Product Sales Analysis I
--- Question goes here.
+/* Write your T-SQL query statement below */
+select p.product_name , s.year ,s.price from sales as s left join product as p on s.product_id = p.product_id ; 
