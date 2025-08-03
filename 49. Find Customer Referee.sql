@@ -1,2 +1,2 @@
 -- 49. Find Customer Referee
--- Question goes here.
+select name from Customer where referee_id !=2 or referee_id is null ;
