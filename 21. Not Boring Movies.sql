@@ -1,2 +1,2 @@
 -- 21. Not Boring Movies
--- Question goes here.
+select * from cinema where id % 2 != 0 and description != 'boring' order by rating desc;
